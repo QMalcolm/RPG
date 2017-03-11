@@ -1,19 +1,8 @@
-BASICS - Extends to other other lands
-The Harpers
-The Order of the Gauntlet
-The Emerald Enclave
-The Lords' Alliance
-The Zhentarim
-
-THIEVES
-Brandal's Thieves - Monterram only
-Order of Nox - Extends to world
-Cloak of Silence - Monterram only
-
-WIZARDS - Extends to rest of world (unless otherwise noted)
-Order of Scientia - Knowledge
-Word of Exitium - Destruction
-Brandir's Arm - Demon Hunters - Monterram Only
-Tall Hat - Entertainers (typically multi class bard)
+Order of Aphor - Knowledge
+Tall Hat - Protectors living as Entertainers
 Shield of Statera - Maintain world balance
 
+Brandir's Arm - Demon Hunters
+Cloak of Silence - Thieves
+
+Hielach's Knights - Chaos and Fear
